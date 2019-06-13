@@ -1,0 +1,11 @@
+.box-model {
+  height: 150px;
+
+  background-color: powderblue;
+}
+
+div.box-model#box-small {
+  width: 10%;
+  background-color: red;
+  margin:5px;
+}
